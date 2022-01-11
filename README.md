@@ -1,1 +1,2 @@
 # CustomWidget
+##Inicializacion del componente
